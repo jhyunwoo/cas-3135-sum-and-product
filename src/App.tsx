@@ -9,7 +9,7 @@ function App() {
   return (
     <div
       className={
-        "w-full h-screen flex items-center justify-center bg-neutral-50 dark:bg-neutral-950"
+        "w-full h-screen flex items-center justify-center bg-neutral-50 dark:bg-neutral-950 p-4"
       }
     >
       <div
